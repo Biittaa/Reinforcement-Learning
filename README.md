@@ -30,9 +30,3 @@ The project is divided into two main parts:
 ## 📁 Files
 - `P1.ipynb`: Implementation of Part 1 (MDP problem)
 - `P2.ipynb`: Implementation of Part 2 (Cliff Walking problem)
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
